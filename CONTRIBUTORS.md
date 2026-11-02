@@ -8,6 +8,7 @@
 - [@arata-1972](https://github.com/arata-1972)
 - [@benlukka](https://github.com/benlukka)
 - [@bogusyogi](https://github.com/bogusyogi)
+- [@claude](https://github.com/claude)
 - [@coygeek](https://github.com/coygeek)
 - [@cruzer45](https://github.com/cruzer45)
 - [@DWAA1660](https://github.com/DWAA1660)
@@ -29,9 +30,9 @@
 - [@storybored379](https://github.com/storybored379)
 - [@treyreynolds](https://github.com/treyreynolds)
 - [@voshart](https://github.com/voshart)
-
-_Listed are GitHub accounts only. Anonymous (email-only) commit authors
-cannot be enumerated through the GitHub API and are credited by hand in
+_Linked GitHub accounts only. Anonymous (unlinked) commit authors are
+enumerable through the API (anon=true) but are identified there only by
+name/email, which this registry does not publish; credit them by hand in
 the sections above where known._
 
 <!-- END GENERATED CONTRIBUTORS -->
